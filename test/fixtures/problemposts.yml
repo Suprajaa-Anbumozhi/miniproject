@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  problemtitle: MyText
+  problemdesc: MyText
+  likes: 1
+  User_Id: 1
+
+two:
+  problemtitle: MyText
+  problemdesc: MyText
+  likes: 1
+  User_Id: 1
